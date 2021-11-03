@@ -3,7 +3,7 @@ date: "2016-11-05T19:44:32+05:30"
 draft: false
 image: img/portfolio/gravity-paper.jpg
 showonlyimage: false
-title: Name of the work 3
+title: Ansh Gangey
 weight: 2
 ---
 

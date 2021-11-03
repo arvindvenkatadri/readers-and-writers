@@ -1,10 +1,10 @@
 ---
-date: "2016-11-05T19:53:42+05:30"
+date: "2016-11-05T19:59:22+05:30"
 draft: false
-image: https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg
-showonlyimage: true
-title: Atul Josemine
-weight: 5
+image: img/portfolio/ipad-air-2.jpg
+showonlyimage: false
+title: Vanshika Singh
+weight: 15
 ---
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
