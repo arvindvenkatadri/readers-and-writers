@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://readers-and-writers.netlify.app"
 title = "Readers and Writers"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
